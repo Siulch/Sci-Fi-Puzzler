@@ -3,8 +3,7 @@ Puzzler is a project part of the Vr Developer Nanodegree at Udacity, which is to
 
 This project is about a puzzle based on a Sci Fi environment where the player starts and moves slowly towards the room where the puzzle is. The player has to memorize the sequence of the batteries that were turned on and repeat it by clicking on the batteries in the correct order, if it is correct it can start again.
 
-###Scene Path
-
+### Scene Path
 Assets -> Low Poly Flat Sci Fi Assets -> Demo -> Scenes
 
 ### Versions Used
