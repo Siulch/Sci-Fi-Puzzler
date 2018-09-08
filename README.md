@@ -1,8 +1,7 @@
-# Puzzler
-Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
+# VR Sci Fi Puzzler
+Puzzler is a project part of the Vr Developer Nanodegree at Udacity, which is to develop a game for mobile devices based on a puzzle, keeping in mind all the experiences the user could have.
 
-- Course: VR Design
-- Project: Puzzler
+This project is about a puzzle based on a Sci Fi environment where the player starts and moves slowly towards the room where the puzzle is. The player has to memorize the sequence of the batteries that were turned on and repeat it by clicking on the batteries in the correct order, if it is correct it can start again.
 
 
 ### Versions Used
@@ -12,7 +11,7 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 
 
 ### Directory Structure
-- The Unity project is the child directory of the repository and named according to the associated lesson.
+- The Unity project is the child directory of the repository and named according to the associated project.
 - The Unity project is 'cleaned' and includes the `Assets` folder, the `ProjectSettings` folder, and the `UnityPackageManager` folder.
 
 
@@ -23,10 +22,3 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - Scripts applicable to the course have been updated to reflect Unity's API change from `UnityEngine.VR` to `UnityEngine.XR`.
 
 >**Note:** If for any reason you remove and re-import GVR SDK for Unity v1.100.1, make sure you accept any API update pop-up prompts triggered by Unity. Alternatively, you can manually run the API updater (Unity menu `Assets` > `Run API Updater...`) after the import has completed.
-
-
-### Related Repositories
-- [VR Design - Intro to VR Design](https://github.com/udacity/VR-Design_Intro-to-VR-Design/releases)
-- [VR Design - Movement Mechanics](https://github.com/udacity/VR-Design_Movement-Mechanics/releases)
-- [VR Design - Presenting the Work](https://github.com/udacity/VR-Design_Presenting-the-Work/releases)
-- VR Design - Puzzler
